@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "a982bae67d0fecb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b84939f82971ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b180a3a6c44b3191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design/Suspension/Steering Hub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beb7fa3fef698734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design/PCB/Research/Pico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9728fb1aaa5f7d54",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Raspberry-Pi-Pico-R3-A4-Board-RP2040-Pinout-GPIOs.webp"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b543a6a0e19b134b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b15604675b423914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f98cb425c27793f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f30ea98e4dc7295a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c02154ec735e61d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca97cbcead02206b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52cdd8adb914727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19e0b5dc6ccf400a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Raspberry-Pi-Pico-R3-A4-Board-RP2040-Pinout-GPIOs.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "773f7e2749afed53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Raspberry-Pi-Pico-R3-A4-Board-RP2040-Pinout-GPIOs.webp",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f12df353f75ebaab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66b5e6847d21946c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Raspberry-Pi-Pico-R3-A4-Board-RP2040-Pinout-GPIOs.webp"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9728fb1aaa5f7d54",
+  "lastOpenFiles": [
+    "Design/PCB/Research/Pico.md",
+    "Raspberry-Pi-Pico-R3-A4-Board-RP2040-Pinout-GPIOs.webp",
+    "Notes/Investigation/Inspiration.md",
+    "Welcome.md",
+    "Design/Fasteners.md",
+    "Design/Suspension/Wheel Hub.md",
+    "Design/Suspension/Steering Hub.md",
+    "Design/Suspension/Gear box.md",
+    "Design/PCB/Research",
+    "Design/PCB",
+    "Untitled",
+    "Images/Pasted image 20240419211715.png",
+    "Design/Suspension/Gearbox",
+    "Images/Pasted image 20240417222104.png",
+    "Images/Pasted image 20240414155046.png",
+    "Images/Pasted image 20240414151015.png",
+    "Pasted image 20240414150959.png",
+    "Images/Pasted image 20240414150734.png",
+    "Images",
+    "Images/Pasted image 20240414150639.png",
+    "Notes/Day Notes/2024-04-13.md",
+    "Notes/Investigation",
+    "Notes/Untitled.md",
+    "Notes/Day Notes/Untitled",
+    "Notes/Day Notes",
+    "Notes",
+    "Design",
+    "Images/Sojourner_on_Mars_PIA01122.jpg",
+    "Untitled.canvas",
+    "Images/ASY-SA0723_07-Sojourner-rover.webp"
+  ]
+}
